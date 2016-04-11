@@ -6,7 +6,7 @@ There are a few key things to note:
 
 * You'll need to adjust some of the variables to fit your environment (e.g., domains, allowed IPs for DNS servers, etc.).
 * I recommend that this run on a server or something where you can schedule it via cron to run at regular intervals.
-* I recommend that you include administrative emails for notification that are not part of the domains this script.
+* I recommend that you include administrative emails for notification that are not part of the domains this script monitors.
 * If possible, run this from a server that can utilize split DNS to avoid any potential issues if the admin domains are hijacked.
 
 Again, this is a quickly hacked-together script but it works.
