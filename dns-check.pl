@@ -26,7 +26,7 @@ my @dnsservers = ("10\.10\.10\.10","10\.10\.10\.11");
 my @rootns = ("a\.gtld-servers\.net\.","b\.gtld-servers\.net\.","c\.gtld-servers\.net\.","d\.gtld-servers\.net\.");
 
 # List of admins to receive email alert.
-my @admins = ("youremail@yourdomain.com","anotheremail@yourdomain.com");
+my @admins = ("youremail\@yourdomain.com","anotheremail\@yourdomain.com");
 
 
 my @results = "";
